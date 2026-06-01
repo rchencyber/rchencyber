@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0a0a0a,111111,ff5500,ff3300&height=220&section=header&text=RICHARD%20CHEN&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Student%20%7C%20SOC%20Builder%20%7C%20AI%20Security&descAlignY=62&descColor=ff8855&animation=fadeIn&stroke=ff5500&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,1a1a1a,ff5500&height=220&section=header&text=RICHARD%20CHEN&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20Student%20%7C%20SOC%20Builder%20%7C%20AI%20Security&descAlignY=65&descColor=ff8855&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5500&center=true&vCenter=true&width=800&lines=Building+a+13-Lab+SOC+Home+Lab+%F0%9F%9B%A1%EF%B8%8F;Wazuh+SIEM+%2B+Suricata+IDS+Detection;AI-Powered+Threat+Triage+with+Claude+API;WGU+B.S.+Cybersecurity+%E2%80%94+Target+2027;Open+to+SOC+%2F+IT+Security+Roles+in+New+York" alt="Typing SVG" />
 
@@ -27,7 +27,7 @@
   Focus     : SOC Operations · Threat Detection · AI-Assisted Security
   Building  : Sentinel SOC Lab (13 labs) · Sentinel AI Dashboard
   Available : Entry-level SOC / IT Security roles — New York
-  Status    : [##########..........] Building...
+  Status    : [=========>          ] Building...
 ```
 
 ---
