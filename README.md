@@ -120,8 +120,7 @@ response = claude.classify(
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rchencyber&show_icons=true&theme=tokyonight&title_color=ff5500&icon_color=ff5500&text_color=c9d1d9&bg_color=0d1117&border_color=ff5500&count_private=true&hide_border=false"/>
-<img height="175" src="https://streak-stats.demolab.com/?user=rchencyber&theme=tokyonight&ring=ff5500&fire=ff5500&currStreakLabel=ff5500&sideLabels=c9d1d9&background=0d1117&border=ff5500"/>
+<img src="https://streak-stats.demolab.com/?user=rchencyber&theme=tokyonight&ring=ff5500&fire=ff5500&currStreakLabel=ff5500&sideLabels=c9d1d9&background=0d1117&border=ff5500&hide_border=false"/>
 
 </div>
 
