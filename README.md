@@ -1,47 +1,143 @@
-# Hi, I'm Richard Chen 👋
+<div align="center">
 
-Cybersecurity student based in New York, building hands-on skills through real lab work and project-based learning. Currently transitioning into the security field with a focus on SOC operations, threat detection, and AI-assisted security tooling.
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=200&section=header&text=Richard%20Chen&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20SOC%20Builder%20%7C%20AI%20Security&descAlignY=58&descColor=ffccaa&animation=fadeIn" width="100%"/>
 
----
+<!-- Typing animation -->
+<a href="https://rchencyber.github.io/cyber-lab-series">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5500&center=true&vCenter=true&width=600&lines=Building+a+13-Lab+SOC+Home+Lab;Wazuh+SIEM+%2B+Suricata+IDS;AI-Powered+Threat+Triage+with+Claude;WGU+Cybersecurity+B.S.+%E2%80%94+2027" alt="Typing SVG" />
+</a>
 
-## 🔭 What I'm Working On
+<br/>
 
-- **Sentinel SOC Lab** — A 13-lab home lab series built on VirtualBox with Kali Linux, Ubuntu Server, Wazuh SIEM, and Suricata IDS
-- **Sentinel AI** — A React-based threat triage dashboard powered by Claude AI for alert analysis and incident response
-- Pursuing **CompTIA Security+**
+<!-- Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-rchencyber.github.io-ff5500?style=for-the-badge&logo=github&logoColor=white)](https://rchencyber.github.io/cyber-lab-series)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-richardchen--cyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/richardchen-cyber)
+[![Email](https://img.shields.io/badge/Email-richardchen2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardchen2001@gmail.com)
 
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Tools |
-|---|---|
-| Security | Wazuh, Suricata, Kali Linux, Metasploitable |
-| Networking | VirtualBox, Internal Network Lab Environments |
-| Development | React, JavaScript, HTML/CSS |
-| AI/API | Anthropic Claude API |
-| OS | Linux (Kali, Ubuntu), Windows |
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 🛡️ About Me
+
+```yaml
+name:       Richard Chen
+location:   Westbury, New York
+education:  A.A.S. Cybersecurity — Nassau Community College (GPA 3.7)
+            B.S. Cybersecurity & Information Assurance — WGU (Starting Jul 2026)
+focus:      SOC Operations · Threat Detection · AI-Assisted Security
+building:   Sentinel SOC Lab (13 labs) + Sentinel AI Dashboard
+available:  Open to entry-level SOC / IT Security roles in New York
+```
+
+---
+
+## 🔬 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛡️ Sentinel SOC Lab
-A structured home lab simulating a real SOC environment. Labs cover environment setup, attack simulation, log analysis, and incident response using open-source security tools.
+**13-Lab Home Lab Series**
 
-### 🤖 Sentinel AI Dashboard
-An AI-powered React dashboard that ingests security alerts and uses Claude AI to triage threats, suggest remediation steps, and generate incident reports.
+A professional-grade SOC environment built from scratch on a laptop. Real tools, real attacks, real detection.
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+**Stack:** Wazuh SIEM · Suricata IDS · Kali Linux · Metasploit · Nmap
+
+[![View Lab Series](https://img.shields.io/badge/View_Lab_Series-ff5500?style=for-the-badge)](https://rchencyber.github.io/cyber-lab-series)
+
+</td>
+<td width="50%">
+
+### 🤖 Sentinel AI
+**AI-Powered Threat Triage Dashboard**
+
+React dashboard integrating Claude's API to classify SOC alerts, map MITRE ATT&CK techniques, and generate incident reports automatically.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Claude](https://img.shields.io/badge/Claude_API-cc785c?style=flat&logo=anthropic&logoColor=white)
+
+**Stack:** React · Claude API · REST APIs · Prompt Engineering
+
+[![View Project](https://img.shields.io/badge/View_Project-1a73e8?style=for-the-badge)](https://github.com/rchencyber)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
-- CompTIA Security+ (SY0-701)
-- SIEM & IDS configuration (Wazuh + Suricata)
-- Network traffic analysis
-- Incident response workflows
+## 🧰 Tech Stack
+
+**Security Tools**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Systems & Networking**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**Development & AI**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-cc785c?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/richardchen-cyber)
-- 📧 richardchen2001@gmail.com
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rchencyber&show_icons=true&theme=dark&title_color=ff5500&icon_color=ff5500&text_color=ffffff&bg_color=0d1117&border_color=ff5500&hide_border=false&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchencyber&layout=compact&theme=dark&title_color=ff5500&text_color=ffffff&bg_color=0d1117&border_color=ff5500"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rchencyber&theme=dark&ring=ff5500&fire=ff5500&currStreakLabel=ff5500&sideLabels=ffffff&background=0d1117&border=ff5500" />
+
+</div>
+
+---
+
+## 📈 Lab Progress
+
+| Lab | Topic | Status |
+|-----|-------|--------|
+| 01 | Environment Setup — VirtualBox + Kali + Ubuntu | ✅ Complete |
+| 02 | Add Metasploitable 2 | 🔄 Next |
+| 03 | Wazuh SIEM Setup | 🔒 Locked |
+| 04 | Suricata IDS | 🔒 Locked |
+| 05 | Network Reconnaissance | 🔒 Locked |
+| 06 | Exploitation with Metasploit | 🔒 Locked |
+| 07 | Log Analysis & Alerting | 🔒 Locked |
+| 08 | Elastic SIEM + Kibana | 🔒 Locked |
+| 09 | Brute Force Detection | 🔒 Locked |
+| 10 | Lateral Movement Detection | 🔒 Locked |
+| 11 | AI Triage Integration | 🔒 Locked |
+| 12 | Incident Response Workflow | 🔒 Locked |
+| 13 | Red Team vs Blue Team Capstone | 🔒 Locked |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=100&section=footer" width="100%"/>
+
+</div>
