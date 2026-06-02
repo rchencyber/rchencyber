@@ -25,7 +25,7 @@
   Education : A.A.S. Cybersecurity — Nassau Community College (GPA 3.7)
               B.S. Cybersecurity and Information Assurance — WGU (Jul 2026)
   Focus     : SOC Operations · Threat Detection · AI-Assisted Security
-  Building  : Sentinel SOC Lab (13 labs) · Sentinel AI Dashboard
+  Building  : Sentinel SOC Lab (13 labs) · KRYXEN Dashboard
   Available : Entry-level SOC / IT Security roles — New York
   Status    : [=========>          ] Building...
 ```
@@ -61,10 +61,10 @@ IDS       → Suricata
 </td>
 <td width="50%">
 
-### 🤖 Sentinel AI
+### 🤖 KRYXEN
 > AI Threat Triage Dashboard · Complete
 
-React dashboard integrating Claude's API to classify SOC alerts, map MITRE ATT&CK, and auto-generate incident reports.
+AI-powered threat triage dashboard — real-time alert classification, MITRE ATT&CK phase tagging, auto-remediation checklists, and risk scoring.
 
 ```python
 alert = wazuh.get_alert()
