@@ -38,7 +38,7 @@
 <tr>
 <td width="50%">
 
-### 🛡️ Sentinel SOC Lab
+### 🛡️ KRYXEN SOC Lab
 > 13-Lab Home Lab Series · In Progress
 
 Professional-grade SOC environment built from scratch. Real tools, real attack simulations, real detection.
