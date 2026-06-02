@@ -25,7 +25,7 @@
   Education : A.A.S. Cybersecurity — Nassau Community College (GPA 3.7)
               B.S. Cybersecurity and Information Assurance — WGU (Jul 2026)
   Focus     : SOC Operations · Threat Detection · AI-Assisted Security
-  Building  : Sentinel SOC Lab (13 labs) · KRYXEN Dashboard
+  Building  : KRYXEN SOC Lab (13 labs) · KRYXEN Dashboard
   Available : Entry-level SOC / IT Security roles — New York
   Status    : [=========>          ] Building...
 ```
