@@ -80,7 +80,7 @@ response = claude.classify(
 ![Claude](https://img.shields.io/badge/Claude_API-cc785c?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-[![View Project →](https://img.shields.io/badge/View_Project_→-1a73e8?style=for-the-badge)](https://github.com/rchencyber)
+[![View Project →](https://img.shields.io/badge/View_Project_→-1a73e8?style=for-the-badge)](https://github.com/rchencyber/kryxen)
 
 </td>
 </tr>
