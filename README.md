@@ -129,12 +129,12 @@ response = claude.classify(
 ## ◈ SOC Lab Progress
 
 ```
-LAB SERIES — SENTINEL SOC LAB                              1 / 13 complete
+LAB SERIES — KRYXEN SOC LAB                               2 / 13 complete
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   [✓] 01  Environment Setup — VirtualBox + Kali + Ubuntu     COMPLETE
-  [→] 02  Add Metasploitable 2                                IN PROGRESS
-  [·] 03  Wazuh SIEM Setup
+  [✓] 02  Add Metasploitable 2                                COMPLETE
+  [→] 03  Wazuh SIEM Setup                                    NEXT
   [·] 04  Suricata IDS
   [·] 05  Network Reconnaissance — Nmap
   [·] 06  Exploitation with Metasploit
